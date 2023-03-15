@@ -1,5 +1,4 @@
 <h3 align="left">Hi 👋, I'm Junsuke</h3>
-------------------------------------------------------------
 <p align="legt">I'm a passionate Full Stack developer from Kobe, Japan.</p>
 
 <h3 align="left">Connect with me:</h3>
