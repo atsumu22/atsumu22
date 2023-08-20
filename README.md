@@ -11,7 +11,7 @@
 </ul>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsumu22&layout=donut)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsumu22&layout=donut)
 
     
 <h5 align="left">Connect with me:</h5>
