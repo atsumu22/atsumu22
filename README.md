@@ -10,14 +10,10 @@
 <li>Cooking & Eating, Writing, Watching Soocer match!!</li>
 </ul>
 
-<div style={ display: flex, flex-direction: row }>
-  <div>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsumu22&layout=donut)]  (https://github.com/anuraghazra/github-readme-stats)
-  </div>
-  <div>
-    <h1>aiueo</h1>
-  </div>
-</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsumu22&layout=donut)]  (https://github.com/anuraghazra/github-readme-stats)
+
+    
 <h5 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://twitter.com/atsumu27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atsumu27" height="20" width="20" /></a>
