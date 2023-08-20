@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Junsuke</h1>
 <p align="legt">I am a passionate Full Stack developer from Kobe, Japan.</p>
 
-<p align="legt">I learned at <a href="https://www.lewagon.com/tokyo">Le Wagon Tokyo</a> and came to know how fun coding is!!</p>
+<p align="legt">I learned at <a href="https://www.lewagon.com/tokyo">Le Wagon Tokyo</a>🚌and came to know how fun coding is!!</p>
 <p align="legt">In this past 7 years, I was working as a sales representative in the manufacturer field, but I would like to start my new career in web development from now on! </p>
 
 <h5 align="left">Languages & Hobbies:</h5>
@@ -10,8 +10,14 @@
 <li>Cooking & Eating, Writing, Watching Soocer match!!</li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsumu22&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
+<div style={ display: flex, flex-direction: row }>
+  <div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsumu22&layout=donut)]  (https://github.com/anuraghazra/github-readme-stats)
+  </div>
+  <div>
+    <h1>aiueo</h1>
+  </div>
+</div>
 <h5 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://twitter.com/atsumu27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atsumu27" height="20" width="20" /></a>
