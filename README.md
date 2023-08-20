@@ -11,7 +11,7 @@
 </ul>
 
 <h5 align="left">My Skill Sets:</h5>
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css)](https://skillicons.dev)
 
 
 
