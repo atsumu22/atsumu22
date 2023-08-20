@@ -10,7 +10,6 @@
 <li>Cooking & Eating, Writing, Watching Soocer match!!</li>
 </ul>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsumu22&theme=light&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsumu22&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 <h5 align="left">Connect with me:</h5>
