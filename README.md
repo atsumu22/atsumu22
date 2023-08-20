@@ -10,11 +10,15 @@
 <li>Cooking & Eating, Writing, Watching Soocer match!!</li>
 </ul>
 
+<h5 align="left">My Skill Sets:</h5>
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,ts,html,css,scss,bootstrap)](https://skillicons.dev)
+
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsumu22&layout=donut)
 
     
-<h5 align="left">Connect with me:</h5>
+<h5 align="left">Connect with me on...:</h5>
 <p align="left">
 <a href="https://twitter.com/atsumu27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atsumu27" height="20" width="20" /></a>
 <a href="https://fb.com/junsuke.watanabe3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="junsuke.watanabe3" height="20" width="20" /></a>
