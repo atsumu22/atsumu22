@@ -10,12 +10,40 @@
 <li>Cooking & Eating, Writing, Watching Soocer match!!</li>
 </ul>
 
+
+
 <h5 align="left">My Skill Sets:</h5>
-![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,html,css)](https://skillicons.dev)
 
 
 
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ruby,rails,postgres,js,ts" /><br />
+    <img src="https://skillicons.dev/icons?i=react,next,html,css,sass" /><br />
+    <img src="https://skillicons.dev/icons?i=bootstrap,heroku,netlify,vercel,figma" /><br />
+  </a>
+</p>
+
+ <a href="https://skillicons.dev">
+  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atsumu22&layout=donut)
+  
+  </div>
+
+
+
+
+
+    
+
+  </div>
+</div>
+
+
+
+
+
 
     
 <h5 align="left">Connect with me on...:</h5>
